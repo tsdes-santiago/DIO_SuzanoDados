@@ -45,7 +45,7 @@ A solução é baseada no meu [projeto](https://github.com/tsdes-santiago/DIO_Bo
 - DiagramaEcommerce.png
 - e_commerce_diagrama.mwb (Arquivo Workbench)
 
-<img src="../EcommerceEsquema/DiagramaEcommerce.png" width=80%>
+<img src="DiagramaEcommerce.png" width=80%>
 
 - **Cliente PF e PJ**:
 
